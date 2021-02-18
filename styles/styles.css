@@ -1,0 +1,53 @@
+body{
+  background-image: url("img/JWF_Background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container{
+  padding: 0px;
+  margin: 0px;
+}
+
+h5{
+  text-align: left;
+  margin-top: 15px;
+  color: #FFFFFF;
+}
+
+h2{
+  color: #FFFFFF;
+}
+
+.btn{
+  width: 100%;
+}
+
+.main-heading{
+  margin-bottom: 40px;
+}
+
+.col{
+  text-align: center;
+  padding: 0px;
+}
+
+.col-lg-4{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.col-md-6{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.row{
+  padding: 0px;
+  margin: 0px;
+}
+
+.logo-img{
+  margin-top: 100px;
+  margin-bottom: 20px
+}
